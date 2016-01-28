@@ -1,4 +1,4 @@
-}
+{
   "in": "assets/scss/application.scss",
   "out": "dist/css/application.css",
   "sass": true,
