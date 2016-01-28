@@ -30,7 +30,7 @@
   height: 45px;
   float: right;
   font-size: 10pt;
-  margin-top: -33px;
+  margin-top: -57px;
   padding-left: 32px;
   padding-right: 50px;
   -webkit-border-radius: 23px;
@@ -41,8 +41,22 @@
 .container-1 .icon{
   color: $stardust;
   margin-left: 674px;
-  margin-top: -20px;
+  margin-top: -45px;
   position: absolute;
   top: 50%;
   z-index: 1;
 }
+
+a {
+    border-bottom: 1px solid transparent;
+    color: $white;
+    display: inline-block;
+    padding: 0.125rem 0.0625rem 1.25rem;
+    text-decoration: none;
+    transition: all 240ms ease-out;
+  }
+
+a:hover,
+  a.current {
+    border-color: $white;
+  }
