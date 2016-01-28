@@ -20,6 +20,7 @@
 .main-nav {
   margin-left: 100px;
   margin-top: 45px;
+  margin-bottom: 0;
 }
 
 .list-item {
@@ -30,6 +31,12 @@
   color: $white;
   font-size: 13px;
   list-style: none;
-  margin-right: 50px;
+  margin-left: 50px;
   text-decoration: none;
+}
+
+.search {
+  display: inline-block;
+  float: right;
+  margin-top: -25px;
 }
