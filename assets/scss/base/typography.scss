@@ -49,9 +49,32 @@ pre {
   overflow-x: scroll;
 }
 
-h1 { font-size: 2rem }
-h2 { font-size: 1.5rem }
-h3 { font-size: 1.25rem }
-h4 { font-size: 1rem }
-h5 { font-size: .875rem }
-h6 { font-size: .75rem }
+h1,
+.t1 {
+  font-size: 2rem;
+}
+
+h2,
+.t2 {
+    font-size: 1.5rem;
+}
+
+h3,
+.t3 {
+   font-size: 1.25rem;
+ }
+
+h4,
+.t4 {
+  font-size: 1rem;
+}
+
+h5,
+.t5 {
+  font-size: .875rem;
+}
+
+h6,
+.t6 {
+ font-size: .75rem;
+}
