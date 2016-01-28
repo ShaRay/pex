@@ -31,3 +31,30 @@
   display: block;
   padding-left: 100px;
 }
+
+.purple-btn {
+  background: $purpleheart;
+  border: none;
+  border-radius: 31px;
+  color: $stardust;
+  cursor: pointer;
+  height: 62px;
+  float: left;
+  font-size: 10pt;
+  margin-bottom: -57px;
+  padding-left: 32px;
+  padding-right: 40px;
+  position: relative;
+  top: 435px;
+  left: -147px;
+  width: 200px;
+}
+
+.button-started {
+  display: block;
+  color: $white;
+  font-size: 17px;
+  line-height: 60px;
+  text-align: center;
+  text-decoration: none;
+}
