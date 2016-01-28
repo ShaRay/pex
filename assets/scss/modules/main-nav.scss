@@ -1,0 +1,48 @@
+.main-nav {
+  margin-bottom: 0;
+  margin-left: 100px;
+  margin-top: 45px;
+}
+
+.list-item {
+  display: inline-block;
+}
+
+.link-item {
+  color: $white;
+  font-size: 13px;
+  list-style: none;
+  margin-left: 35px;
+  text-decoration: none;
+}
+
+.container-1{
+  position: relative;
+  //white-space: nowrap;
+  vertical-align: middle;
+}
+
+.container-1 input#search{
+  background: $white;
+  border: none;
+  border-radius: 23px;
+  color: $stardust;
+  height: 45px;
+  float: right;
+  font-size: 10pt;
+  margin-top: -33px;
+  padding-left: 32px;
+  padding-right: 50px;
+  -webkit-border-radius: 23px;
+  -moz-border-radius: 23px;
+  width: 150px;
+}
+
+.container-1 .icon{
+  color: $stardust;
+  margin-left: 674px;
+  margin-top: -20px;
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+}
