@@ -1,0 +1,64 @@
+.hero {
+  background-image: url(../img/hero-bg.jpg);
+  min-height: 55.875rem;
+}
+
+.logo {
+  color: $mandy;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  margin:45px 5px 0 210px;
+}
+
+.tagline {
+  color: $white;
+  display: inline-block;
+  font-size: 10px;
+  margin: 0 0 0 2px;
+}
+
+.focus-words {
+  color: $white;
+  display: block;
+  position: absolute;
+  top: 309px;
+  left: 228px;
+
+}
+
+.thank {
+  display: block;
+  padding-left: 100px;
+}
+
+.purple-btn {
+  background: $purpleheart;
+  border: none;
+  border-radius: 31px;
+  color: $stardust;
+  cursor: pointer;
+  height: 62px;
+  float: left;
+  font-size: 10pt;
+  margin-bottom: -57px;
+  padding-left: 32px;
+  padding-right: 40px;
+  position: relative;
+  top: 435px;
+  left: -147px;
+  width: 280px;
+}
+
+.button-started {
+  display: block;
+  color: $white;
+  font-size: 17px;
+  line-height: 60px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.lorem {
+  text-align: center;
+}

@@ -1,11 +1,9 @@
 {
   "name": "pex",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "Sharon Washington <sharon2@sharay.com> (http://sharay.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "pleeease-cli": "^4.0.0"
+  }
 }
